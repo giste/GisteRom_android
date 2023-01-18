@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-
-  <!-- GisteRom additions -->
-  <project path="lineage-sdk" name="giste/gisterom_lineage-sdk" remote="crdroid" />
-  <project path="packages/apps/LineageParts" name="giste/gisterom_packages_apps_LineageParts" remote="crdroid" />
-  <project path="vendor/lineage" name="giste/gisterom_vendor_giste" remote="crdroid" />
-
-</manifest>

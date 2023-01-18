@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Beerdroid additions -->
+  <project path="lineage-sdk" name="giste/beerdroid_lineage-sdk" remote="crdroid" />
+  <project path="packages/apps/LineageParts" name="giste/beerdroid_packages_apps_LineageParts" remote="crdroid" />
+  <project path="vendor/lineage" name="giste/beerdroid_vendor_beerdroid" remote="crdroid" />
+
+</manifest>
