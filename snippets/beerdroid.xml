@@ -17,6 +17,5 @@
   <project path="packages/apps/LineageParts" name="beerdroid_packages_apps_LineageParts" remote="giste" />
   <project path="vendor/lineage" name="beerdroid_vendor_beerdroid" remote="giste" />
   <project path="vendor/addons" name="beerdroid_vendor_addons" remote="giste" />
-  <project path="packages/apps/BeerCam" name="beerdroid_packages_apps_BeerCam" remote="giste"/>
 
 </manifest>
